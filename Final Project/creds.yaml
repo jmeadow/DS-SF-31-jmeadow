@@ -1,0 +1,9 @@
+---
+postgres:
+  host: 127.0.0.1
+  dbname: postgres
+  username: jeremy
+  password: ""
+  port: 5432
+
+...
